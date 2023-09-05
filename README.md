@@ -18,3 +18,6 @@ _____
 + Cakes & Pastries in BeaverTails
 + Chicken with waffles in Betty's Cafe
 
+*Link to MyStats.md*
+![MyStats.md](MyStats.md)
+
