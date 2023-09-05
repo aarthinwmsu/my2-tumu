@@ -12,3 +12,9 @@ _____
 2. Cave of winds - To have a closer view of falls
 3. Immerse yourself in the beauty of nature
 
+### Dishes to try in Niagara Falls
+
++ Wood fired Pizza in Johnny Rocco's Italian Grill
++ Cakes & Pastries in BeaverTails
++ Chicken with waffles in Betty's Cafe
+
