@@ -42,3 +42,27 @@ _____
 >*Isaac Newton* - "The more I learn, the more I realize how much I don't know."<br>
 
 >*Albert Einstein* - "The only source of knowledge is experience.”
+
+_____
+
+# CODE FENCING
+
+>* **QUESTION: How to use Multiple box-shadow declarations in Sass** - [Stackoverflow Link](https://stackoverflow.com/questions/5407386/multiple-box-shadow-declarations-in-sass)
+
+### CODE SNIPPET
+
+```
+@mixin card($depth) {
+  @if $depth < 1 {
+    box-shadow: none;
+  } @else if $depth > 5 {
+    @warn "Invalid $depth `#{$depth}` for mixin `card`.";
+  } @else {
+    box-shadow: bottom-shadow($depth), top-shadow($depth);  
+  }
+}
+```
+
+[Code Snippet Link](https://css-tricks.com/snippets/sass/material-shadows-mixin/)
+
+
